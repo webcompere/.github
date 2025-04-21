@@ -2,11 +2,15 @@
 
 **Webcompere.org.uk** is a collection of open source projects run by [Ashley Frieze](https://github.com/ashleyfrieze)
 
-## Testing
+## Java Testing
 
 - [System Stubs](https://github.com/webcompere/system-stubs) - Java plugins for JUnit (4 & 5) and TestNG to help with replacing environment variables, system properties and other `System` resources at test time
 - [Model Assert](https://github.com/webcompere/model-assert) - Assertion library for JSON
 - [Java Test Gadgets](https://github.com/webcompere/java-test-gadgets) - an assortment of plugins and tricks for JUnit 4 and 5
+
+## TypeScript
+
+- [Streamo](https://github.com/webcompere/streamo) - TypeScript port/reinvention of the Java collection Stream API
 
 ## Other
 
